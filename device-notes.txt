@@ -1,0 +1,6 @@
+Nexus 6             Sony IMX214
+Galaxy S5
+LG G3               Sony IMX135
+HTC One M8          (720p@120fps)
+Sony Xperia Z3      Sony Exmor RS IMX220 (720p@120fps)
+OnePlus One         Sony Exmor BSI (720p@120fps)
